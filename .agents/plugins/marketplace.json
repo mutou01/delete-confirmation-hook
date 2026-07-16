@@ -1,0 +1,20 @@
+{
+  "name": "delete-confirmation-hook",
+  "interface": {
+    "displayName": "Delete Confirmation Hook"
+  },
+  "plugins": [
+    {
+      "name": "delete-confirmation-hook",
+      "source": {
+        "source": "local",
+        "path": "./plugins/delete-confirmation-hook"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

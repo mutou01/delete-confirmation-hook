@@ -1,0 +1,10 @@
+# Runtime and local state
+*.log
+*.tmp
+*.bak
+
+# Codex local state
+.codex/
+
+# PowerShell editor state
+*.psd1.user

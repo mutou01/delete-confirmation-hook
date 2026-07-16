@@ -1,0 +1,17 @@
+{
+  "name": "delete-confirmation-hook",
+  "version": "0.1.0",
+  "description": "Request user confirmation before delete commands run.",
+  "author": {
+    "name": "Local developer"
+  },
+  "interface": {
+    "displayName": "Delete Confirmation Hook",
+    "shortDescription": "Confirm delete commands with a Windows dialog.",
+    "longDescription": "Shows a Windows Yes/No dialog before recognized delete commands run.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Require confirmation before a delete command runs."
+  }
+}
