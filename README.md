@@ -1,5 +1,6 @@
 # delete-confirmation-hook
 在code agent执行rm等高危删除操作前，出现弹窗征求用户确认的插件hook；
+目前仅支持Windows系统Codex APP，后续将实现优化描述、兼容Mac系统等开发任务；
 
 ![alt text](image.png)
 
