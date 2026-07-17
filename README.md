@@ -8,7 +8,7 @@
 用户在本机安装时执行：
 
 ```powershell
-codex plugin marketplace add mutou01/delete-confirmation-hook --ref main
+codex plugin marketplace add mutou01/delete-confirmation-hook --ref master
 codex plugin add delete-confirmation-hook@delete-confirmation-hook
 ```
 
@@ -30,5 +30,5 @@ codex plugin add delete-confirmation-hook@delete-confirmation-hook
 也可以使用完整 GitHub 地址：
 
 ```powershell
-codex plugin marketplace add https://github.com/mutou01/delete-confirmation-hook.git --ref main
+codex plugin marketplace add https://github.com/mutou01/delete-confirmation-hook.git --ref master
 ```
